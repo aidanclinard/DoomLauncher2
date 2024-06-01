@@ -1,0 +1,13 @@
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\bin\Debug\DoomLauncher2.exe.config
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\bin\Debug\DoomLauncher2.exe
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\bin\Debug\DoomLauncher2.pdb
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.csproj.AssemblyReference.cache
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.BetterDoomLauncher2.resources
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.Properties.Resources.resources
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.csproj.GenerateResource.cache
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.csproj.CoreCompileInputs.cache
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.exe
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLauncher2.pdb
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MLGBo\OneDrive\Documents\DoomLauncher2\DoomLauncher2\obj\Debug\DoomLaun.36944973.Up2Date
